@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: content-box;
+}
+
+h3{
+    color: #b2ffff;
+}
+u{
+    color:#b2ffff;
+
+}
+*img{
+    width: 50;
+    height: 50;
+}
+h2{
+    color:aqua;
+}
+button{
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+}
+.cool-3d-button {
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.poop-button {
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out; /* Smooth transition */
+    position: relative;
+}
+
+
